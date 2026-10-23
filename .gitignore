@@ -1,0 +1,5 @@
+# build output
+bin/
+*.pdb
+__pycache__/
+*.py[cod]
